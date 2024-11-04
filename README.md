@@ -21,7 +21,7 @@ Overall, research in hospital readmission prediction holds the potential to enha
 
 ## Data Source
 The data is available in the following link:
-[Link] (https://www.kaggle.com/datasets/dubradave/hospital-readmissions)
+(https://www.kaggle.com/datasets/dubradave/hospital-readmissions)
 
 
 
